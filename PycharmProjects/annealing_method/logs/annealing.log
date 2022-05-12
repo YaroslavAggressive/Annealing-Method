@@ -1,0 +1,129 @@
+
+2022-05-12 19:29:48,461 : [INFO] : Starting optimization process
+2022-05-12 19:29:48,461 : [INFO] : Number of minimization dimensions: 3
+2022-05-12 19:29:48,461 : [INFO] : Initial argument statement: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 19:29:48,485 : [INFO] : Initial target function value: F(x_0) = 292.820000000000
+2022-05-12 19:29:48,501 : [INFO] : Iteration # 10
+2022-05-12 19:29:48,501 : [INFO] : Best state value: x_best = {'x': 1.5815919147880972, 'y': 3.277656250349266, 'z': -12.483274194168763}
+2022-05-12 19:29:48,501 : [INFO] : Best target function value^ F_best = 169.076598087176
+2022-05-12 19:29:48,501 : [INFO] : Current temperature: T = 2.565747273893521
+2022-05-12 19:29:48,511 : [INFO] : Iteration # 20
+2022-05-12 19:29:48,511 : [INFO] : Best state value: x_best = {'x': 1.3565358438421327, 'y': 0.48723974971397155, 'z': -9.820012374209695}
+2022-05-12 19:29:48,511 : [INFO] : Best target function value^ F_best = 98.5102350989613
+2022-05-12 19:29:48,511 : [INFO] : Current temperature: T = 0.5814798662596308
+2022-05-12 19:29:48,543 : [INFO] : Iteration # 30
+2022-05-12 19:29:48,543 : [INFO] : Best state value: x_best = {'x': 1.3565358438421327, 'y': 0.48723974971397155, 'z': -4.274341989823873}
+2022-05-12 19:29:48,543 : [INFO] : Best target function value^ F_best = 20.3475915153013
+2022-05-12 19:29:48,543 : [INFO] : Current temperature: T = 0.2500156259766236
+2022-05-12 19:29:48,555 : [INFO] : Iteration # 40
+2022-05-12 19:29:48,555 : [INFO] : Best state value: x_best = {'x': 1.3565358438421327, 'y': 0.48723974971397155, 'z': -0.848161201447338}
+2022-05-12 19:29:48,555 : [INFO] : Best target function value^ F_best = 2.79696949297041
+2022-05-12 19:29:48,555 : [INFO] : Current temperature: T = 0.13831736920363774
+2022-05-12 19:29:48,566 : [INFO] : Iteration # 50
+2022-05-12 19:29:48,566 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.48723974971397155, 'z': -0.848161201447338}
+2022-05-12 19:29:48,566 : [INFO] : Best target function value^ F_best = 0.967607622076054
+2022-05-12 19:29:48,566 : [INFO] : Current temperature: T = 0.08764433927123733
+2022-05-12 19:29:48,586 : [INFO] : Iteration # 60
+2022-05-12 19:29:48,586 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.48723974971397155, 'z': -0.848161201447338}
+2022-05-12 19:29:48,586 : [INFO] : Best target function value^ F_best = 0.967607622076054
+2022-05-12 19:29:48,586 : [INFO] : Current temperature: T = 0.060460405991626234
+2022-05-12 19:29:48,600 : [INFO] : Iteration # 70
+2022-05-12 19:29:48,600 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.48723974971397155, 'z': -0.848161201447338}
+2022-05-12 19:29:48,600 : [INFO] : Best target function value^ F_best = 0.967607622076054
+2022-05-12 19:29:48,600 : [INFO] : Current temperature: T = 0.04420915350523326
+2022-05-12 19:29:48,607 : [INFO] : Iteration # 80
+2022-05-12 19:29:48,607 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.48723974971397155, 'z': -0.848161201447338}
+2022-05-12 19:29:48,607 : [INFO] : Best target function value^ F_best = 0.967607622076054
+2022-05-12 19:29:48,607 : [INFO] : Current temperature: T = 0.033727097193062335
+2022-05-12 19:29:48,622 : [INFO] : Iteration # 90
+2022-05-12 19:29:48,622 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.48723974971397155, 'z': -0.848161201447338}
+2022-05-12 19:29:48,622 : [INFO] : Best target function value^ F_best = 0.967607622076054
+2022-05-12 19:29:48,622 : [INFO] : Current temperature: T = 0.026574718141895708
+2022-05-12 19:29:48,635 : [INFO] : Iteration # 100
+2022-05-12 19:29:48,635 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.26918384747281365, 'z': -0.848161201447338}
+2022-05-12 19:29:48,635 : [INFO] : Best target function value^ F_best = 0.802664992114988
+2022-05-12 19:29:48,635 : [INFO] : Current temperature: T = 0.02147777855336423
+2022-05-12 19:29:48,646 : [INFO] : Iteration # 110
+2022-05-12 19:29:48,646 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.1659883421869616, 'z': 0.16311597164548208}
+2022-05-12 19:29:48,646 : [INFO] : Best target function value^ F_best = 0.0649865746819543
+2022-05-12 19:29:48,646 : [INFO] : Current temperature: T = 0.0177180090273256
+2022-05-12 19:29:48,661 : [INFO] : Iteration # 120
+2022-05-12 19:29:48,661 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.1659883421869616, 'z': 0.16311597164548208}
+2022-05-12 19:29:48,661 : [INFO] : Best target function value^ F_best = 0.0649865746819543
+2022-05-12 19:29:48,661 : [INFO] : Current temperature: T = 0.014865522764689925
+2022-05-12 19:29:48,672 : [INFO] : Iteration # 130
+2022-05-12 19:29:48,672 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.1659883421869616, 'z': -0.2130756800356315}
+2022-05-12 19:29:48,672 : [INFO] : Best target function value^ F_best = 0.0837809998987514
+2022-05-12 19:29:48,672 : [INFO] : Current temperature: T = 0.01265026138602589
+2022-05-12 19:29:48,680 : [INFO] : Iteration # 140
+2022-05-12 19:29:48,680 : [INFO] : Best state value: x_best = {'x': 0.10405587313616071, 'y': 0.0987463453297601, 'z': -0.2130756800356315}
+2022-05-12 19:29:48,680 : [INFO] : Best target function value^ F_best = 0.0659797108727598
+2022-05-12 19:29:48,680 : [INFO] : Current temperature: T = 0.010895649639490192
+2022-05-12 19:29:48,690 : [INFO] : Method successfully completed optimization
+2022-05-12 19:29:48,690 : [INFO] : Number of iterations: 146
+2022-05-12 19:29:48,690 : [INFO] : Optimum: x* =  {'x': 0.10405587313616071, 'y': 0.0987463453297601, 'z': -0.2383429178669798}
+2022-05-12 19:29:48,690 : [INFO] : Optimal target value: F(x)=0.0773858119474589
+2022-05-12 19:30:11,671 : [INFO] : Starting optimization process
+2022-05-12 19:30:11,671 : [INFO] : Number of minimization dimensions: 3
+2022-05-12 19:30:11,671 : [INFO] : Initial argument statement: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 19:30:11,695 : [INFO] : Initial target function value: F(x_0) = 292.820000000000
+2022-05-12 19:30:11,715 : [INFO] : Iteration # 10
+2022-05-12 19:30:11,715 : [INFO] : Best state value: x_best = {'x': -1.8049671879845848, 'y': 9.10773730436323, 'z': -12.1}
+2022-05-12 19:30:11,715 : [INFO] : Best target function value^ F_best = 232.618785354991
+2022-05-12 19:30:11,715 : [INFO] : Current temperature: T = 2.565747273893521
+2022-05-12 19:30:11,725 : [INFO] : Iteration # 20
+2022-05-12 19:30:11,725 : [INFO] : Best state value: x_best = {'x': -0.20843547384255878, 'y': 9.10773730436323, 'z': -8.668861427960874}
+2022-05-12 19:30:11,725 : [INFO] : Best target function value^ F_best = 158.143482609233
+2022-05-12 19:30:11,725 : [INFO] : Current temperature: T = 0.5814798662596308
+2022-05-12 19:30:11,765 : [INFO] : Iteration # 30
+2022-05-12 19:30:11,765 : [INFO] : Best state value: x_best = {'x': -0.5023770030637942, 'y': 4.164568295206658, 'z': -8.668861427960874}
+2022-05-12 19:30:11,765 : [INFO] : Best target function value^ F_best = 92.7451701958357
+2022-05-12 19:30:11,765 : [INFO] : Current temperature: T = 0.2500156259766236
+2022-05-12 19:30:11,775 : [INFO] : Iteration # 40
+2022-05-12 19:30:11,775 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': -0.3178684623828474, 'z': -3.429738163980795}
+2022-05-12 19:30:11,775 : [INFO] : Best target function value^ F_best = 11.9885679748671
+2022-05-12 19:30:11,775 : [INFO] : Current temperature: T = 0.13831736920363774
+2022-05-12 19:30:11,796 : [INFO] : Iteration # 50
+2022-05-12 19:30:11,796 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': -0.3178684623828474, 'z': -1.515182055380686}
+2022-05-12 19:30:11,796 : [INFO] : Best target function value^ F_best = 2.52124076234839
+2022-05-12 19:30:11,796 : [INFO] : Current temperature: T = 0.08764433927123733
+2022-05-12 19:30:11,806 : [INFO] : Iteration # 60
+2022-05-12 19:30:11,806 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': 0.012282351737746056, 'z': -0.5843194704225663}
+2022-05-12 19:30:11,806 : [INFO] : Best target function value^ F_best = 0.466003841702228
+2022-05-12 19:30:11,806 : [INFO] : Current temperature: T = 0.060460405991626234
+2022-05-12 19:30:11,816 : [INFO] : Iteration # 70
+2022-05-12 19:30:11,816 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': 0.012282351737746056, 'z': -0.5843194704225663}
+2022-05-12 19:30:11,816 : [INFO] : Best target function value^ F_best = 0.466003841702228
+2022-05-12 19:30:11,816 : [INFO] : Current temperature: T = 0.04420915350523326
+2022-05-12 19:30:11,835 : [INFO] : Iteration # 80
+2022-05-12 19:30:11,835 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': 0.012282351737746056, 'z': -0.4158865334976908}
+2022-05-12 19:30:11,835 : [INFO] : Best target function value^ F_best = 0.297536206932046
+2022-05-12 19:30:11,835 : [INFO] : Current temperature: T = 0.033727097193062335
+2022-05-12 19:30:11,847 : [INFO] : Iteration # 90
+2022-05-12 19:30:11,847 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': 0.012282351737746056, 'z': -0.4158865334976908}
+2022-05-12 19:30:11,847 : [INFO] : Best target function value^ F_best = 0.297536206932046
+2022-05-12 19:30:11,847 : [INFO] : Current temperature: T = 0.026574718141895708
+2022-05-12 19:30:11,866 : [INFO] : Iteration # 100
+2022-05-12 19:30:11,866 : [INFO] : Best state value: x_best = {'x': 0.35273749733067783, 'y': 0.040465473283319335, 'z': -0.4158865334976908}
+2022-05-12 19:30:11,866 : [INFO] : Best target function value^ F_best = 0.299022805295879
+2022-05-12 19:30:11,866 : [INFO] : Current temperature: T = 0.02147777855336423
+2022-05-12 19:30:11,881 : [INFO] : Iteration # 110
+2022-05-12 19:30:11,881 : [INFO] : Best state value: x_best = {'x': -0.16620767807327175, 'y': 0.040465473283319335, 'z': -0.4158865334976908}
+2022-05-12 19:30:11,881 : [INFO] : Best target function value^ F_best = 0.202224055523277
+2022-05-12 19:30:11,881 : [INFO] : Current temperature: T = 0.0177180090273256
+2022-05-12 19:30:11,895 : [INFO] : Iteration # 120
+2022-05-12 19:30:11,895 : [INFO] : Best state value: x_best = {'x': -0.16620767807327175, 'y': 0.040465473283319335, 'z': -0.24328533681290468}
+2022-05-12 19:30:11,895 : [INFO] : Best target function value^ F_best = 0.0884502018867198
+2022-05-12 19:30:11,895 : [INFO] : Current temperature: T = 0.014865522764689925
+2022-05-12 19:30:11,905 : [INFO] : Iteration # 130
+2022-05-12 19:30:11,905 : [INFO] : Best state value: x_best = {'x': -0.16620767807327175, 'y': 0.040465473283319335, 'z': -0.24328533681290468}
+2022-05-12 19:30:11,905 : [INFO] : Best target function value^ F_best = 0.0884502018867198
+2022-05-12 19:30:11,905 : [INFO] : Current temperature: T = 0.01265026138602589
+2022-05-12 19:30:11,921 : [INFO] : Iteration # 140
+2022-05-12 19:30:11,921 : [INFO] : Best state value: x_best = {'x': -0.16620767807327175, 'y': 0.08684338716121576, 'z': -0.24328533681290468}
+2022-05-12 19:30:11,921 : [INFO] : Best target function value^ F_best = 0.0943545212523096
+2022-05-12 19:30:11,921 : [INFO] : Current temperature: T = 0.010895649639490192
+2022-05-12 19:30:11,929 : [INFO] : Method successfully completed optimization
+2022-05-12 19:30:11,929 : [INFO] : Number of iterations: 146
+2022-05-12 19:30:11,929 : [INFO] : Optimum: x* =  {'x': -0.16620767807327175, 'y': 0.08684338716121576, 'z': -0.24328533681290468}
+2022-05-12 19:30:11,929 : [INFO] : Optimal target value: F(x)=0.0943545212523096

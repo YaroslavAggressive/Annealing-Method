@@ -1,0 +1,7 @@
+2022-05-12 19:30:11,666 : [INFO] : Started reading input task data
+2022-05-12 19:30:11,671 : [INFO] : Successfully parsed target function from input
+2022-05-12 19:30:11,671 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 19:30:11,671 : [INFO] : Successfully parsed initial state from input
+2022-05-12 19:30:11,671 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 19:30:11,671 : [INFO] : Reading input data completed successfully
+2022-05-12 19:30:11,671 : [INFO] : Number of input strings read: 2

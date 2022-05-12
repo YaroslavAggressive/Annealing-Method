@@ -1,0 +1,21 @@
+
+2022-05-12 19:29:48,457 : [INFO] : Started creating configuration for method
+2022-05-12 19:29:48,457 : [INFO] : Started reading configurations
+2022-05-12 19:29:48,457 : [INFO] : Config parameters read successfully
+2022-05-12 19:29:48,457 : [INFO] : Started filling config parameters
+2022-05-12 19:29:48,457 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 19:29:48,457 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 19:29:48,458 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 19:29:48,458 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 19:29:48,458 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 19:29:48,458 : [INFO] : Filling config parameters completed successfully
+2022-05-12 19:30:11,666 : [INFO] : Started creating configuration for method
+2022-05-12 19:30:11,666 : [INFO] : Started reading configurations
+2022-05-12 19:30:11,666 : [INFO] : Config parameters read successfully
+2022-05-12 19:30:11,666 : [INFO] : Started filling config parameters
+2022-05-12 19:30:11,666 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 19:30:11,666 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 19:30:11,666 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 19:30:11,666 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 19:30:11,666 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 19:30:11,666 : [INFO] : Filling config parameters completed successfully
