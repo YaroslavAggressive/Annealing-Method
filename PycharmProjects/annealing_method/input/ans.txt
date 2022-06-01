@@ -1,3 +1,3 @@
-Solution found after 146 iterations
-Optimum point is: x* = {'x': -0.16620767807327175, 'y': 0.08684338716121576, 'z': -0.24328533681290468}
-Target function value at optimum point: F(x*) = 0.0943545212523096
+Solution found after 999 iterations
+Optimum point is: x* = {'x': 0.022063293022371804, 'y': 0.042108938101057106, 'z': 0.01476467355467858}
+Target function value at optimum point: F(x*) = 0.00247794715216592

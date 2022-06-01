@@ -1,1 +1,1 @@
-{"mode": "quad", "T_max": 200, "T_min": 0.01, "step" : 5., "alpha": 0.95}
+{"mode": "quad", "T_max": 500, "iter": 1000, "step" : 5., "alpha": 0.95}
