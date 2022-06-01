@@ -38,11 +38,11 @@ class CustomLogger:
         for line in lines:
             self.logger.info(line)
 
-    def make_checkpoint(self):
-        with open(self.checkpoint_file, "w"):
-            pass
-
-    def load_from_checkpoint(self) -> list:
-        with open(self.checkpoint_file, "r"):
-            pass
+    # def make_checkpoint(self):
+    #     with open(self.checkpoint_file, "w"):
+    #         pass
+    #
+    # def load_from_checkpoint(self) -> list:
+    #     with open(self.checkpoint_file, "r"):
+    #         pass
 

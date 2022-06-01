@@ -4,7 +4,7 @@ import ast
 from logger import CustomLogger
 from decimal import Decimal
 
-REQUIRED_PARAMS = ["mode", "alpha", "T_max", "T_min", "step"]
+REQUIRED_PARAMS = ["mode", "alpha", "T_max", "iter", "step"]
 
 CONFIG_LOGFILE = "logs/config.log"
 CONFIG_LOGNAME = "config_logger"

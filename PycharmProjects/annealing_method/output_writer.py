@@ -23,14 +23,3 @@ def write_result(result_data: list, filename: str):
         file.write("Optimum point is: x* = {}\n".format(result_data[0]))
         file.write("Target function value at optimum point: F(x*) = {}\n".format(result_data[1]))
         logger.info_mess("Completed writing result")
-
-
-def create_temp_log():
-    pass
-
-
-def create_end_log():
-    pass
-
-
-
