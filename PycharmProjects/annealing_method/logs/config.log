@@ -19,3 +19,524 @@
 2022-05-12 19:30:11,666 : [INFO] : Read parameter " step "  with value 5.0
 2022-05-12 19:30:11,666 : [INFO] : Read parameter " alpha "  with value 0.95
 2022-05-12 19:30:11,666 : [INFO] : Filling config parameters completed successfully
+2022-05-12 20:44:46,356 : [INFO] : Started creating configuration for method
+2022-05-12 20:44:46,356 : [INFO] : Started reading configurations
+2022-05-12 20:44:46,356 : [INFO] : Config parameters read successfully
+2022-05-12 20:44:46,356 : [INFO] : Started filling config parameters
+2022-05-12 20:44:46,357 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 20:44:46,357 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 20:44:46,357 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 20:44:46,357 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 20:44:46,357 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 20:44:46,357 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:07:39,243 : [INFO] : Started creating configuration for method
+2022-05-12 21:07:39,244 : [INFO] : Started reading configurations
+2022-05-12 21:07:39,244 : [INFO] : Config parameters read successfully
+2022-05-12 21:07:39,244 : [INFO] : Started filling config parameters
+2022-05-12 21:07:39,244 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:07:39,244 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:07:39,244 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:07:39,244 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:07:39,244 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:07:39,244 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:08:10,974 : [INFO] : Started creating configuration for method
+2022-05-12 21:08:10,974 : [INFO] : Started reading configurations
+2022-05-12 21:08:10,974 : [INFO] : Config parameters read successfully
+2022-05-12 21:08:10,974 : [INFO] : Started filling config parameters
+2022-05-12 21:08:10,974 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:08:10,974 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:08:10,974 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:08:10,974 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:08:10,974 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:08:10,974 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:08:28,750 : [INFO] : Started creating configuration for method
+2022-05-12 21:08:28,750 : [INFO] : Started reading configurations
+2022-05-12 21:08:28,751 : [INFO] : Config parameters read successfully
+2022-05-12 21:08:28,751 : [INFO] : Started filling config parameters
+2022-05-12 21:08:28,751 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:08:28,751 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:08:28,752 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:08:28,752 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:08:28,752 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:08:28,752 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:08:36,916 : [INFO] : Started creating configuration for method
+2022-05-12 21:08:36,916 : [INFO] : Started reading configurations
+2022-05-12 21:08:36,917 : [INFO] : Config parameters read successfully
+2022-05-12 21:08:36,917 : [INFO] : Started filling config parameters
+2022-05-12 21:08:36,917 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:08:36,917 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:08:36,917 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:08:36,918 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:08:36,918 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:08:36,918 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:08:52,502 : [INFO] : Started creating configuration for method
+2022-05-12 21:08:52,502 : [INFO] : Started reading configurations
+2022-05-12 21:08:52,503 : [INFO] : Config parameters read successfully
+2022-05-12 21:08:52,503 : [INFO] : Started filling config parameters
+2022-05-12 21:08:52,503 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:08:52,503 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:08:52,503 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:08:52,503 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:08:52,503 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:08:52,503 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:09:04,607 : [INFO] : Started creating configuration for method
+2022-05-12 21:09:04,607 : [INFO] : Started reading configurations
+2022-05-12 21:09:04,607 : [INFO] : Config parameters read successfully
+2022-05-12 21:09:04,607 : [INFO] : Started filling config parameters
+2022-05-12 21:09:04,607 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:09:04,607 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:09:04,607 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:09:04,607 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:09:04,607 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:09:04,607 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:09:26,776 : [INFO] : Started creating configuration for method
+2022-05-12 21:09:26,777 : [INFO] : Started reading configurations
+2022-05-12 21:09:26,777 : [INFO] : Config parameters read successfully
+2022-05-12 21:09:26,777 : [INFO] : Started filling config parameters
+2022-05-12 21:09:26,777 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:09:26,777 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:09:26,777 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:09:26,777 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:09:26,777 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:09:26,777 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:12:03,470 : [INFO] : Started creating configuration for method
+2022-05-12 21:12:03,470 : [INFO] : Started reading configurations
+2022-05-12 21:12:03,470 : [INFO] : Config parameters read successfully
+2022-05-12 21:12:03,470 : [INFO] : Started filling config parameters
+2022-05-12 21:12:03,470 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:12:03,470 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:12:03,470 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:12:03,470 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:12:03,470 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:12:03,470 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:17:15,992 : [INFO] : Started creating configuration for method
+2022-05-12 21:17:15,992 : [INFO] : Started reading configurations
+2022-05-12 21:17:15,992 : [INFO] : Config parameters read successfully
+2022-05-12 21:17:15,993 : [INFO] : Started filling config parameters
+2022-05-12 21:17:15,993 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:17:15,993 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:17:15,993 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:17:15,993 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:17:15,993 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:17:15,993 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:22:54,260 : [INFO] : Started creating configuration for method
+2022-05-12 21:22:54,260 : [INFO] : Started reading configurations
+2022-05-12 21:22:54,260 : [INFO] : Config parameters read successfully
+2022-05-12 21:22:54,260 : [INFO] : Started filling config parameters
+2022-05-12 21:22:54,260 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:22:54,260 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:22:54,260 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:22:54,260 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:22:54,260 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:22:54,260 : [INFO] : Filling config parameters completed successfully
+2022-05-12 21:23:11,660 : [INFO] : Started creating configuration for method
+2022-05-12 21:23:11,660 : [INFO] : Started reading configurations
+2022-05-12 21:23:11,660 : [INFO] : Config parameters read successfully
+2022-05-12 21:23:11,660 : [INFO] : Started filling config parameters
+2022-05-12 21:23:11,660 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 21:23:11,660 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 21:23:11,660 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 21:23:11,660 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 21:23:11,660 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 21:23:11,660 : [INFO] : Filling config parameters completed successfully
+2022-05-12 22:42:11,645 : [INFO] : Started creating configuration for method
+2022-05-12 22:42:11,645 : [INFO] : Started reading configurations
+2022-05-12 22:42:11,649 : [INFO] : Config parameters read successfully
+2022-05-12 22:42:11,649 : [INFO] : Started filling config parameters
+2022-05-12 22:42:11,649 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-12 22:42:11,649 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-12 22:42:11,649 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-12 22:42:11,649 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-12 22:42:11,649 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-12 22:42:11,649 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:09:37,512 : [INFO] : Started creating configuration for method
+2022-05-26 22:09:37,512 : [INFO] : Started reading configurations
+2022-05-26 22:09:37,518 : [INFO] : Config parameters read successfully
+2022-05-26 22:09:37,518 : [INFO] : Started filling config parameters
+2022-05-26 22:09:37,518 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:09:37,518 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:09:37,518 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:09:37,519 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-26 22:09:37,519 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:09:37,519 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:14:44,016 : [INFO] : Started creating configuration for method
+2022-05-26 22:14:44,016 : [INFO] : Started reading configurations
+2022-05-26 22:14:44,017 : [INFO] : Config parameters read successfully
+2022-05-26 22:14:44,017 : [INFO] : Started filling config parameters
+2022-05-26 22:14:44,017 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:14:44,017 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:14:44,017 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:14:44,018 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-26 22:14:44,018 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:14:44,018 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:14:49,819 : [INFO] : Started creating configuration for method
+2022-05-26 22:14:49,819 : [INFO] : Started reading configurations
+2022-05-26 22:14:49,820 : [INFO] : Config parameters read successfully
+2022-05-26 22:14:49,820 : [INFO] : Started filling config parameters
+2022-05-26 22:14:49,820 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:14:49,820 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:14:49,820 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:14:49,820 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-26 22:14:49,820 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:14:49,820 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:15:48,027 : [INFO] : Started creating configuration for method
+2022-05-26 22:15:48,028 : [INFO] : Started reading configurations
+2022-05-26 22:15:48,028 : [INFO] : Config parameters read successfully
+2022-05-26 22:15:48,028 : [INFO] : Started filling config parameters
+2022-05-26 22:15:48,028 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:15:48,029 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:15:48,029 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:15:48,029 : [INFO] : Read parameter " step "  with value 5.0
+2022-05-26 22:15:48,029 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:15:48,029 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:05,193 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:05,194 : [INFO] : Started reading configurations
+2022-05-26 22:39:05,195 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:05,195 : [INFO] : Started filling config parameters
+2022-05-26 22:39:05,195 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:05,195 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:05,195 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:05,195 : [INFO] : Read parameter " step "  with value 15.0
+2022-05-26 22:39:05,196 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:05,196 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:16,929 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:16,930 : [INFO] : Started reading configurations
+2022-05-26 22:39:16,930 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:16,930 : [INFO] : Started filling config parameters
+2022-05-26 22:39:16,930 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:16,930 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:16,931 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:16,931 : [INFO] : Read parameter " step "  with value 25.0
+2022-05-26 22:39:16,931 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:16,931 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:29,032 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:29,033 : [INFO] : Started reading configurations
+2022-05-26 22:39:29,034 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:29,034 : [INFO] : Started filling config parameters
+2022-05-26 22:39:29,034 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:29,034 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:29,034 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:29,035 : [INFO] : Read parameter " step "  with value 55.0
+2022-05-26 22:39:29,035 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:29,035 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:35,464 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:35,464 : [INFO] : Started reading configurations
+2022-05-26 22:39:35,465 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:35,465 : [INFO] : Started filling config parameters
+2022-05-26 22:39:35,465 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:35,465 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:35,465 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:35,465 : [INFO] : Read parameter " step "  with value 55.0
+2022-05-26 22:39:35,465 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:35,465 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:44,164 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:44,164 : [INFO] : Started reading configurations
+2022-05-26 22:39:44,164 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:44,164 : [INFO] : Started filling config parameters
+2022-05-26 22:39:44,165 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:44,165 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:44,165 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:44,165 : [INFO] : Read parameter " step "  with value 0.6
+2022-05-26 22:39:44,165 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:44,165 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:52,077 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:52,077 : [INFO] : Started reading configurations
+2022-05-26 22:39:52,078 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:52,078 : [INFO] : Started filling config parameters
+2022-05-26 22:39:52,078 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:52,078 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:52,078 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:52,078 : [INFO] : Read parameter " step "  with value 1000.6
+2022-05-26 22:39:52,078 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:52,079 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:39:58,424 : [INFO] : Started creating configuration for method
+2022-05-26 22:39:58,424 : [INFO] : Started reading configurations
+2022-05-26 22:39:58,424 : [INFO] : Config parameters read successfully
+2022-05-26 22:39:58,424 : [INFO] : Started filling config parameters
+2022-05-26 22:39:58,424 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:39:58,425 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:39:58,425 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:39:58,425 : [INFO] : Read parameter " step "  with value 100.6
+2022-05-26 22:39:58,425 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:39:58,425 : [INFO] : Filling config parameters completed successfully
+2022-05-26 22:40:05,690 : [INFO] : Started creating configuration for method
+2022-05-26 22:40:05,690 : [INFO] : Started reading configurations
+2022-05-26 22:40:05,691 : [INFO] : Config parameters read successfully
+2022-05-26 22:40:05,691 : [INFO] : Started filling config parameters
+2022-05-26 22:40:05,691 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-05-26 22:40:05,691 : [INFO] : Read parameter " T_max "  with value 200
+2022-05-26 22:40:05,691 : [INFO] : Read parameter " T_min "  with value 0.01
+2022-05-26 22:40:05,691 : [INFO] : Read parameter " step "  with value 10.6
+2022-05-26 22:40:05,691 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-05-26 22:40:05,692 : [INFO] : Filling config parameters completed successfully
+2022-06-01 20:13:56,407 : [INFO] : Started creating configuration for method
+2022-06-01 20:13:56,407 : [INFO] : Started reading configurations
+2022-06-01 20:13:56,407 : [INFO] : Config parameters read successfully
+2022-06-01 20:13:56,407 : [INFO] : Started filling config parameters
+2022-06-01 20:13:56,407 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 20:13:56,407 : [INFO] : Read parameter " T_max "  with value 200
+2022-06-01 20:13:56,417 : [ERROR][LINE 56] : Traceback (most recent call last):
+  File "C:\Users\tyryk\PycharmProjects\annealing_method\config.py", line 56, in fill_config
+    line_err_num = str(frame[0]).split()[4]
+IndexError: list index out of range
+
+2022-06-01 20:15:01,727 : [INFO] : Started creating configuration for method
+2022-06-01 20:15:01,727 : [INFO] : Started reading configurations
+2022-06-01 20:15:01,727 : [INFO] : Config parameters read successfully
+2022-06-01 20:15:01,727 : [INFO] : Started filling config parameters
+2022-06-01 20:15:01,727 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 20:15:01,727 : [INFO] : Read parameter " T_max "  with value 200
+2022-06-01 20:15:01,727 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 20:15:01,727 : [INFO] : Read parameter " step "  with value 10.6
+2022-06-01 20:15:01,737 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 20:15:01,737 : [INFO] : Filling config parameters completed successfully
+2022-06-01 20:15:23,287 : [INFO] : Started creating configuration for method
+2022-06-01 20:15:23,287 : [INFO] : Started reading configurations
+2022-06-01 20:15:23,287 : [INFO] : Config parameters read successfully
+2022-06-01 20:15:23,287 : [INFO] : Started filling config parameters
+2022-06-01 20:15:23,287 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 20:15:23,287 : [INFO] : Read parameter " T_max "  with value 200
+2022-06-01 20:15:23,287 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 20:15:23,287 : [INFO] : Read parameter " step "  with value 5.6
+2022-06-01 20:15:23,287 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 20:15:23,287 : [INFO] : Filling config parameters completed successfully
+2022-06-01 20:15:44,577 : [INFO] : Started creating configuration for method
+2022-06-01 20:15:44,577 : [INFO] : Started reading configurations
+2022-06-01 20:15:44,577 : [INFO] : Config parameters read successfully
+2022-06-01 20:15:44,577 : [INFO] : Started filling config parameters
+2022-06-01 20:15:44,577 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 20:15:44,577 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 20:15:44,577 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 20:15:44,577 : [INFO] : Read parameter " step "  with value 5.6
+2022-06-01 20:15:44,577 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 20:15:44,577 : [INFO] : Filling config parameters completed successfully
+2022-06-01 20:15:56,937 : [INFO] : Started creating configuration for method
+2022-06-01 20:15:56,937 : [INFO] : Started reading configurations
+2022-06-01 20:15:56,937 : [INFO] : Config parameters read successfully
+2022-06-01 20:15:56,937 : [INFO] : Started filling config parameters
+2022-06-01 20:15:56,937 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 20:15:56,937 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 20:15:56,937 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 20:15:56,937 : [INFO] : Read parameter " step "  with value 10.0
+2022-06-01 20:15:56,937 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 20:15:56,937 : [INFO] : Filling config parameters completed successfully
+2022-06-01 20:16:08,787 : [INFO] : Started creating configuration for method
+2022-06-01 20:16:08,787 : [INFO] : Started reading configurations
+2022-06-01 20:16:08,787 : [INFO] : Config parameters read successfully
+2022-06-01 20:16:08,787 : [INFO] : Started filling config parameters
+2022-06-01 20:16:08,787 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 20:16:08,787 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 20:16:08,787 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 20:16:08,787 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 20:16:08,787 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 20:16:08,787 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:28:50,579 : [INFO] : Started creating configuration for method
+2022-06-01 21:28:50,579 : [INFO] : Started reading configurations
+2022-06-01 21:28:50,580 : [INFO] : Config parameters read successfully
+2022-06-01 21:28:50,580 : [INFO] : Started filling config parameters
+2022-06-01 21:28:50,580 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:28:50,580 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:28:50,580 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:28:50,580 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:28:50,580 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:28:50,580 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:31:06,794 : [INFO] : Started creating configuration for method
+2022-06-01 21:31:06,794 : [INFO] : Started reading configurations
+2022-06-01 21:31:06,794 : [INFO] : Config parameters read successfully
+2022-06-01 21:31:06,794 : [INFO] : Started filling config parameters
+2022-06-01 21:31:06,794 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:31:06,795 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:31:06,795 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:31:06,795 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:31:06,795 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:31:06,795 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:31:46,301 : [INFO] : Started creating configuration for method
+2022-06-01 21:31:46,301 : [INFO] : Started reading configurations
+2022-06-01 21:31:46,302 : [INFO] : Config parameters read successfully
+2022-06-01 21:31:46,302 : [INFO] : Started filling config parameters
+2022-06-01 21:31:46,302 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:31:46,302 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:31:46,302 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:31:46,302 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:31:46,302 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:31:46,302 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:32:25,399 : [INFO] : Started creating configuration for method
+2022-06-01 21:32:25,399 : [INFO] : Started reading configurations
+2022-06-01 21:32:25,401 : [INFO] : Config parameters read successfully
+2022-06-01 21:32:25,401 : [INFO] : Started filling config parameters
+2022-06-01 21:32:25,401 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:32:25,401 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:32:25,401 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:32:25,401 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:32:25,401 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:32:25,402 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:40:11,422 : [INFO] : Started creating configuration for method
+2022-06-01 21:40:11,422 : [INFO] : Started reading configurations
+2022-06-01 21:40:11,423 : [INFO] : Config parameters read successfully
+2022-06-01 21:40:11,423 : [INFO] : Started filling config parameters
+2022-06-01 21:40:11,423 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:40:11,423 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:40:11,423 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:40:11,423 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:40:11,423 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:40:11,423 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:40:35,395 : [INFO] : Started creating configuration for method
+2022-06-01 21:40:35,395 : [INFO] : Started reading configurations
+2022-06-01 21:40:35,395 : [INFO] : Config parameters read successfully
+2022-06-01 21:40:35,395 : [INFO] : Started filling config parameters
+2022-06-01 21:40:35,395 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:40:35,396 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:40:35,396 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:40:35,396 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:40:35,396 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:40:35,396 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:47:45,842 : [INFO] : Started creating configuration for method
+2022-06-01 21:47:45,842 : [INFO] : Started reading configurations
+2022-06-01 21:47:45,843 : [INFO] : Config parameters read successfully
+2022-06-01 21:47:45,843 : [INFO] : Started filling config parameters
+2022-06-01 21:47:45,843 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:47:45,843 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:47:45,843 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:47:45,843 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:47:45,843 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:47:45,843 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:48:13,945 : [INFO] : Started creating configuration for method
+2022-06-01 21:48:13,946 : [INFO] : Started reading configurations
+2022-06-01 21:48:13,946 : [INFO] : Config parameters read successfully
+2022-06-01 21:48:13,946 : [INFO] : Started filling config parameters
+2022-06-01 21:48:13,946 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:48:13,946 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:48:13,946 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:48:13,946 : [INFO] : Read parameter " step "  with value 2.0
+2022-06-01 21:48:13,946 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:48:13,946 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:49:09,002 : [INFO] : Started creating configuration for method
+2022-06-01 21:49:09,002 : [INFO] : Started reading configurations
+2022-06-01 21:49:09,002 : [INFO] : Config parameters read successfully
+2022-06-01 21:49:09,002 : [INFO] : Started filling config parameters
+2022-06-01 21:49:09,002 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:49:09,002 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:49:09,002 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:49:09,003 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:49:09,003 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:49:09,003 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:49:39,590 : [INFO] : Started creating configuration for method
+2022-06-01 21:49:39,590 : [INFO] : Started reading configurations
+2022-06-01 21:49:39,591 : [INFO] : Config parameters read successfully
+2022-06-01 21:49:39,591 : [INFO] : Started filling config parameters
+2022-06-01 21:49:39,591 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:49:39,591 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:49:39,591 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:49:39,591 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:49:39,591 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:49:39,591 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:50:35,503 : [INFO] : Started creating configuration for method
+2022-06-01 21:50:35,503 : [INFO] : Started reading configurations
+2022-06-01 21:50:35,504 : [INFO] : Config parameters read successfully
+2022-06-01 21:50:35,504 : [INFO] : Started filling config parameters
+2022-06-01 21:50:35,505 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:50:35,505 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:50:35,505 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:50:35,505 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:50:35,505 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:50:35,505 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:52:59,445 : [INFO] : Started creating configuration for method
+2022-06-01 21:52:59,445 : [INFO] : Started reading configurations
+2022-06-01 21:52:59,446 : [INFO] : Config parameters read successfully
+2022-06-01 21:52:59,446 : [INFO] : Started filling config parameters
+2022-06-01 21:52:59,446 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:52:59,446 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:52:59,446 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:52:59,446 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:52:59,446 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:52:59,446 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:53:04,484 : [INFO] : Started creating configuration for method
+2022-06-01 21:53:04,484 : [INFO] : Started reading configurations
+2022-06-01 21:53:04,485 : [INFO] : Config parameters read successfully
+2022-06-01 21:53:04,485 : [INFO] : Started filling config parameters
+2022-06-01 21:53:04,485 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:53:04,485 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:53:04,485 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:53:04,485 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:53:04,485 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:53:04,485 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:53:27,597 : [INFO] : Started creating configuration for method
+2022-06-01 21:53:27,597 : [INFO] : Started reading configurations
+2022-06-01 21:53:27,597 : [INFO] : Config parameters read successfully
+2022-06-01 21:53:27,597 : [INFO] : Started filling config parameters
+2022-06-01 21:53:27,598 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:53:27,598 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:53:27,598 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:53:27,598 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:53:27,598 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:53:27,598 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:53:50,945 : [INFO] : Started creating configuration for method
+2022-06-01 21:53:50,946 : [INFO] : Started reading configurations
+2022-06-01 21:53:50,946 : [INFO] : Config parameters read successfully
+2022-06-01 21:53:50,946 : [INFO] : Started filling config parameters
+2022-06-01 21:53:50,946 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:53:50,946 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:53:50,946 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:53:50,946 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:53:50,946 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:53:50,946 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:56:52,585 : [INFO] : Started creating configuration for method
+2022-06-01 21:56:52,585 : [INFO] : Started reading configurations
+2022-06-01 21:56:52,586 : [INFO] : Config parameters read successfully
+2022-06-01 21:56:52,586 : [INFO] : Started filling config parameters
+2022-06-01 21:56:52,586 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:56:52,586 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:56:52,586 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:56:52,586 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:56:52,586 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:56:52,586 : [INFO] : Filling config parameters completed successfully
+2022-06-01 21:57:59,509 : [INFO] : Started creating configuration for method
+2022-06-01 21:57:59,509 : [INFO] : Started reading configurations
+2022-06-01 21:57:59,510 : [INFO] : Config parameters read successfully
+2022-06-01 21:57:59,510 : [INFO] : Started filling config parameters
+2022-06-01 21:57:59,510 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 21:57:59,510 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 21:57:59,510 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 21:57:59,510 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 21:57:59,510 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 21:57:59,510 : [INFO] : Filling config parameters completed successfully
+2022-06-01 22:00:57,493 : [INFO] : Started creating configuration for method
+2022-06-01 22:00:57,493 : [INFO] : Started reading configurations
+2022-06-01 22:00:57,495 : [INFO] : Config parameters read successfully
+2022-06-01 22:00:57,495 : [INFO] : Started filling config parameters
+2022-06-01 22:00:57,495 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 22:00:57,495 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 22:00:57,495 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 22:00:57,495 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 22:00:57,495 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 22:00:57,496 : [INFO] : Filling config parameters completed successfully
+2022-06-01 22:05:14,257 : [INFO] : Started creating configuration for method
+2022-06-01 22:05:14,257 : [INFO] : Started reading configurations
+2022-06-01 22:05:14,257 : [INFO] : Config parameters read successfully
+2022-06-01 22:05:14,257 : [INFO] : Started filling config parameters
+2022-06-01 22:05:14,257 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 22:05:14,257 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 22:05:14,257 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 22:05:14,257 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 22:05:14,257 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 22:05:14,257 : [INFO] : Filling config parameters completed successfully
+2022-06-01 22:07:06,098 : [INFO] : Started creating configuration for method
+2022-06-01 22:07:06,098 : [INFO] : Started reading configurations
+2022-06-01 22:07:06,098 : [INFO] : Config parameters read successfully
+2022-06-01 22:07:06,098 : [INFO] : Started filling config parameters
+2022-06-01 22:07:06,098 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 22:07:06,098 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 22:07:06,098 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 22:07:06,098 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 22:07:06,098 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 22:07:06,098 : [INFO] : Filling config parameters completed successfully
+2022-06-01 22:29:26,507 : [INFO] : Started creating configuration for method
+2022-06-01 22:29:26,508 : [INFO] : Started reading configurations
+2022-06-01 22:29:26,508 : [INFO] : Config parameters read successfully
+2022-06-01 22:29:26,508 : [INFO] : Started filling config parameters
+2022-06-01 22:29:26,508 : [INFO] : Read parameter " mode "  with value 'quad'
+2022-06-01 22:29:26,508 : [INFO] : Read parameter " T_max "  with value 500
+2022-06-01 22:29:26,508 : [INFO] : Read parameter " iter "  with value 1000
+2022-06-01 22:29:26,508 : [INFO] : Read parameter " step "  with value 5.0
+2022-06-01 22:29:26,508 : [INFO] : Read parameter " alpha "  with value 0.95
+2022-06-01 22:29:26,508 : [INFO] : Filling config parameters completed successfully

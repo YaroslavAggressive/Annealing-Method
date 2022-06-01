@@ -5,3 +5,378 @@
 2022-05-12 19:30:11,671 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
 2022-05-12 19:30:11,671 : [INFO] : Reading input data completed successfully
 2022-05-12 19:30:11,671 : [INFO] : Number of input strings read: 2
+2022-05-12 20:44:46,357 : [INFO] : Started reading input task data
+2022-05-12 20:44:46,361 : [INFO] : Successfully parsed target function from input
+2022-05-12 20:44:46,362 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 20:44:46,362 : [INFO] : Successfully parsed initial state from input
+2022-05-12 20:44:46,362 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 20:44:46,362 : [INFO] : Reading input data completed successfully
+2022-05-12 20:44:46,362 : [INFO] : Number of input strings read: 2
+2022-05-12 21:07:39,244 : [INFO] : Started reading input task data
+2022-05-12 21:07:39,247 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:07:39,248 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:07:39,248 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:07:39,248 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:07:39,248 : [INFO] : Reading input data completed successfully
+2022-05-12 21:07:39,248 : [INFO] : Number of input strings read: 2
+2022-05-12 21:08:10,975 : [INFO] : Started reading input task data
+2022-05-12 21:08:10,979 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:08:10,980 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:08:10,980 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:08:10,980 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:08:10,980 : [INFO] : Reading input data completed successfully
+2022-05-12 21:08:10,980 : [INFO] : Number of input strings read: 2
+2022-05-12 21:08:28,752 : [INFO] : Started reading input task data
+2022-05-12 21:08:28,767 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:08:28,768 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:08:28,768 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:08:28,768 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:08:28,768 : [INFO] : Reading input data completed successfully
+2022-05-12 21:08:28,768 : [INFO] : Number of input strings read: 2
+2022-05-12 21:08:36,918 : [INFO] : Started reading input task data
+2022-05-12 21:08:36,932 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:08:36,932 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:08:36,933 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:08:36,933 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:08:36,933 : [INFO] : Reading input data completed successfully
+2022-05-12 21:08:36,933 : [INFO] : Number of input strings read: 2
+2022-05-12 21:08:52,504 : [INFO] : Started reading input task data
+2022-05-12 21:08:52,517 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:08:52,519 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:08:52,519 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:08:52,520 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:08:52,520 : [INFO] : Reading input data completed successfully
+2022-05-12 21:08:52,520 : [INFO] : Number of input strings read: 2
+2022-05-12 21:09:04,608 : [INFO] : Started reading input task data
+2022-05-12 21:09:04,610 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:09:04,611 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:09:04,611 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:09:04,611 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:09:04,611 : [INFO] : Reading input data completed successfully
+2022-05-12 21:09:04,611 : [INFO] : Number of input strings read: 2
+2022-05-12 21:09:26,777 : [INFO] : Started reading input task data
+2022-05-12 21:09:26,780 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:09:26,781 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:09:26,781 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:09:26,781 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:09:26,781 : [INFO] : Reading input data completed successfully
+2022-05-12 21:09:26,781 : [INFO] : Number of input strings read: 2
+2022-05-12 21:12:03,471 : [INFO] : Started reading input task data
+2022-05-12 21:12:03,474 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:12:03,474 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:12:03,474 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:12:03,474 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:12:03,475 : [INFO] : Reading input data completed successfully
+2022-05-12 21:12:03,475 : [INFO] : Number of input strings read: 2
+2022-05-12 21:17:15,993 : [INFO] : Started reading input task data
+2022-05-12 21:17:15,997 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:17:15,998 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:17:15,998 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:17:15,998 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:17:15,998 : [INFO] : Reading input data completed successfully
+2022-05-12 21:17:15,998 : [INFO] : Number of input strings read: 2
+2022-05-12 21:22:54,261 : [INFO] : Started reading input task data
+2022-05-12 21:22:54,264 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:22:54,265 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:22:54,265 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:22:54,265 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:22:54,265 : [INFO] : Reading input data completed successfully
+2022-05-12 21:22:54,265 : [INFO] : Number of input strings read: 2
+2022-05-12 21:23:11,661 : [INFO] : Started reading input task data
+2022-05-12 21:23:11,664 : [INFO] : Successfully parsed target function from input
+2022-05-12 21:23:11,664 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 21:23:11,664 : [INFO] : Successfully parsed initial state from input
+2022-05-12 21:23:11,664 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 21:23:11,664 : [INFO] : Reading input data completed successfully
+2022-05-12 21:23:11,665 : [INFO] : Number of input strings read: 2
+2022-05-12 22:42:11,649 : [INFO] : Started reading input task data
+2022-05-12 22:42:11,655 : [INFO] : Successfully parsed target function from input
+2022-05-12 22:42:11,655 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-12 22:42:11,656 : [INFO] : Successfully parsed initial state from input
+2022-05-12 22:42:11,656 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-12 22:42:11,656 : [INFO] : Reading input data completed successfully
+2022-05-12 22:42:11,656 : [INFO] : Number of input strings read: 2
+2022-05-26 22:09:37,519 : [INFO] : Started reading input task data
+2022-05-26 22:09:37,534 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:09:37,535 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:09:37,535 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:09:37,535 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:09:37,535 : [INFO] : Reading input data completed successfully
+2022-05-26 22:09:37,536 : [INFO] : Number of input strings read: 2
+2022-05-26 22:14:44,019 : [INFO] : Started reading input task data
+2022-05-26 22:14:44,027 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:14:44,028 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:14:44,028 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:14:44,028 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:14:44,028 : [INFO] : Reading input data completed successfully
+2022-05-26 22:14:44,028 : [INFO] : Number of input strings read: 2
+2022-05-26 22:14:49,821 : [INFO] : Started reading input task data
+2022-05-26 22:14:49,828 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:14:49,829 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:14:49,829 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:14:49,829 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:14:49,830 : [INFO] : Reading input data completed successfully
+2022-05-26 22:14:49,830 : [INFO] : Number of input strings read: 2
+2022-05-26 22:15:48,030 : [INFO] : Started reading input task data
+2022-05-26 22:15:48,040 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:15:48,041 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:15:48,042 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:15:48,042 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:15:48,042 : [INFO] : Reading input data completed successfully
+2022-05-26 22:15:48,042 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:05,196 : [INFO] : Started reading input task data
+2022-05-26 22:39:05,206 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:05,206 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:05,207 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:05,207 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:05,207 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:05,207 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:16,932 : [INFO] : Started reading input task data
+2022-05-26 22:39:16,943 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:16,944 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:16,944 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:16,944 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:16,944 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:16,944 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:29,035 : [INFO] : Started reading input task data
+2022-05-26 22:39:29,045 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:29,046 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:29,046 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:29,046 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:29,046 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:29,046 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:35,466 : [INFO] : Started reading input task data
+2022-05-26 22:39:35,474 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:35,474 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:35,475 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:35,475 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:35,475 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:35,475 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:44,166 : [INFO] : Started reading input task data
+2022-05-26 22:39:44,175 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:44,176 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:44,176 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:44,176 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:44,176 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:44,176 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:52,079 : [INFO] : Started reading input task data
+2022-05-26 22:39:52,087 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:52,088 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:52,088 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:52,088 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:52,088 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:52,088 : [INFO] : Number of input strings read: 2
+2022-05-26 22:39:58,425 : [INFO] : Started reading input task data
+2022-05-26 22:39:58,431 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:39:58,432 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:39:58,432 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:39:58,432 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:39:58,432 : [INFO] : Reading input data completed successfully
+2022-05-26 22:39:58,433 : [INFO] : Number of input strings read: 2
+2022-05-26 22:40:05,692 : [INFO] : Started reading input task data
+2022-05-26 22:40:05,701 : [INFO] : Successfully parsed target function from input
+2022-05-26 22:40:05,702 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-05-26 22:40:05,702 : [INFO] : Successfully parsed initial state from input
+2022-05-26 22:40:05,702 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-05-26 22:40:05,702 : [INFO] : Reading input data completed successfully
+2022-05-26 22:40:05,702 : [INFO] : Number of input strings read: 2
+2022-06-01 20:15:01,737 : [INFO] : Started reading input task data
+2022-06-01 20:15:01,737 : [INFO] : Successfully parsed target function from input
+2022-06-01 20:15:01,747 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 20:15:01,747 : [INFO] : Successfully parsed initial state from input
+2022-06-01 20:15:01,747 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 20:15:01,747 : [INFO] : Reading input data completed successfully
+2022-06-01 20:15:01,747 : [INFO] : Number of input strings read: 2
+2022-06-01 20:15:23,287 : [INFO] : Started reading input task data
+2022-06-01 20:15:23,287 : [INFO] : Successfully parsed target function from input
+2022-06-01 20:15:23,287 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 20:15:23,287 : [INFO] : Successfully parsed initial state from input
+2022-06-01 20:15:23,287 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 20:15:23,287 : [INFO] : Reading input data completed successfully
+2022-06-01 20:15:23,287 : [INFO] : Number of input strings read: 2
+2022-06-01 20:15:44,577 : [INFO] : Started reading input task data
+2022-06-01 20:15:44,587 : [INFO] : Successfully parsed target function from input
+2022-06-01 20:15:44,587 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 20:15:44,587 : [INFO] : Successfully parsed initial state from input
+2022-06-01 20:15:44,587 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 20:15:44,587 : [INFO] : Reading input data completed successfully
+2022-06-01 20:15:44,587 : [INFO] : Number of input strings read: 2
+2022-06-01 20:15:56,937 : [INFO] : Started reading input task data
+2022-06-01 20:15:56,937 : [INFO] : Successfully parsed target function from input
+2022-06-01 20:15:56,937 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 20:15:56,937 : [INFO] : Successfully parsed initial state from input
+2022-06-01 20:15:56,937 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 20:15:56,937 : [INFO] : Reading input data completed successfully
+2022-06-01 20:15:56,937 : [INFO] : Number of input strings read: 2
+2022-06-01 20:16:08,787 : [INFO] : Started reading input task data
+2022-06-01 20:16:08,792 : [INFO] : Successfully parsed target function from input
+2022-06-01 20:16:08,793 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 20:16:08,793 : [INFO] : Successfully parsed initial state from input
+2022-06-01 20:16:08,793 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 20:16:08,793 : [INFO] : Reading input data completed successfully
+2022-06-01 20:16:08,793 : [INFO] : Number of input strings read: 2
+2022-06-01 21:28:50,580 : [INFO] : Started reading input task data
+2022-06-01 21:31:06,795 : [INFO] : Started reading input task data
+2022-06-01 21:31:46,302 : [INFO] : Started reading input task data
+2022-06-01 21:31:46,307 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:31:46,307 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:31:46,307 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:31:46,307 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:32:25,403 : [INFO] : Started reading input task data
+2022-06-01 21:32:25,418 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:32:25,419 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:32:25,420 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:32:25,420 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:40:11,423 : [INFO] : Started reading input task data
+2022-06-01 21:40:11,427 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:40:11,427 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:40:11,427 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:40:11,427 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:40:11,427 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:40:11,427 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:40:11,427 : [INFO] : Reading input data completed successfully
+2022-06-01 21:40:11,427 : [INFO] : Number of input strings read: 5
+2022-06-01 21:40:35,396 : [INFO] : Started reading input task data
+2022-06-01 21:40:35,400 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:40:35,400 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:40:35,400 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:40:35,400 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:40:35,400 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:40:35,400 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:40:35,401 : [INFO] : Reading input data completed successfully
+2022-06-01 21:40:35,401 : [INFO] : Number of input strings read: 5
+2022-06-01 21:47:45,843 : [INFO] : Started reading input task data
+2022-06-01 21:47:45,847 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:47:45,848 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:47:45,848 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:47:45,848 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:47:45,848 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:47:45,848 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:47:45,848 : [INFO] : Reading input data completed successfully
+2022-06-01 21:47:45,848 : [INFO] : Number of input strings read: 5
+2022-06-01 21:48:13,947 : [INFO] : Started reading input task data
+2022-06-01 21:48:13,951 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:48:13,951 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:48:13,951 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:48:13,951 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:48:13,951 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:48:13,951 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:48:13,951 : [INFO] : Reading input data completed successfully
+2022-06-01 21:48:13,951 : [INFO] : Number of input strings read: 5
+2022-06-01 21:49:09,003 : [INFO] : Started reading input task data
+2022-06-01 21:49:09,007 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:49:09,007 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:49:09,007 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:49:09,007 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:49:09,007 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:49:09,007 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:49:09,007 : [INFO] : Reading input data completed successfully
+2022-06-01 21:49:09,007 : [INFO] : Number of input strings read: 5
+2022-06-01 21:49:39,593 : [INFO] : Started reading input task data
+2022-06-01 21:49:39,608 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:49:39,610 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:49:39,610 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:49:39,610 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:49:49,559 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:49:49,560 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:49:49,560 : [INFO] : Reading input data completed successfully
+2022-06-01 21:49:49,560 : [INFO] : Number of input strings read: 5
+2022-06-01 21:50:35,506 : [INFO] : Started reading input task data
+2022-06-01 21:50:35,520 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:50:35,521 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:50:35,521 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:50:35,521 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:50:35,522 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:50:35,522 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:50:35,522 : [INFO] : Reading input data completed successfully
+2022-06-01 21:50:35,522 : [INFO] : Number of input strings read: 5
+2022-06-01 21:52:59,446 : [INFO] : Started reading input task data
+2022-06-01 21:52:59,459 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:52:59,460 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:52:59,461 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:52:59,461 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:52:59,461 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:52:59,461 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:52:59,461 : [INFO] : Reading input data completed successfully
+2022-06-01 21:52:59,461 : [INFO] : Number of input strings read: 5
+2022-06-01 21:53:04,485 : [INFO] : Started reading input task data
+2022-06-01 21:53:04,489 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:53:04,489 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:53:04,490 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:53:04,490 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:53:04,490 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:53:04,490 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:53:04,490 : [INFO] : Reading input data completed successfully
+2022-06-01 21:53:04,490 : [INFO] : Number of input strings read: 5
+2022-06-01 21:53:27,598 : [INFO] : Started reading input task data
+2022-06-01 21:53:27,602 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:53:27,602 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:53:27,602 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:53:27,602 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:53:27,603 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:53:27,603 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:53:27,603 : [INFO] : Reading input data completed successfully
+2022-06-01 21:53:27,603 : [INFO] : Number of input strings read: 5
+2022-06-01 21:53:50,946 : [INFO] : Started reading input task data
+2022-06-01 21:53:50,950 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:53:50,951 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:53:50,951 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:53:50,951 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:53:50,951 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:53:50,951 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:53:50,951 : [INFO] : Reading input data completed successfully
+2022-06-01 21:53:50,952 : [INFO] : Number of input strings read: 5
+2022-06-01 21:56:52,586 : [INFO] : Started reading input task data
+2022-06-01 21:56:52,590 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:56:52,591 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:56:52,591 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:56:52,591 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:56:52,591 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:56:52,591 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:56:52,591 : [INFO] : Reading input data completed successfully
+2022-06-01 21:56:52,591 : [INFO] : Number of input strings read: 5
+2022-06-01 21:57:59,511 : [INFO] : Started reading input task data
+2022-06-01 21:57:59,526 : [INFO] : Successfully parsed target function from input
+2022-06-01 21:57:59,527 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 21:57:59,527 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:57:59,527 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:57:59,527 : [INFO] : Successfully parsed initial state from input
+2022-06-01 21:57:59,528 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 21:57:59,528 : [INFO] : Reading input data completed successfully
+2022-06-01 21:57:59,528 : [INFO] : Number of input strings read: 5
+2022-06-01 22:00:57,496 : [INFO] : Started reading input task data
+2022-06-01 22:00:57,510 : [INFO] : Successfully parsed target function from input
+2022-06-01 22:00:57,512 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 22:00:57,512 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:00:57,512 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:00:57,512 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:00:57,512 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:00:57,512 : [INFO] : Reading input data completed successfully
+2022-06-01 22:00:57,513 : [INFO] : Number of input strings read: 5
+2022-06-01 22:05:14,258 : [INFO] : Started reading input task data
+2022-06-01 22:05:14,262 : [INFO] : Successfully parsed target function from input
+2022-06-01 22:05:14,262 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 22:05:14,262 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:05:14,262 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:05:14,262 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:05:14,263 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:05:14,263 : [INFO] : Reading input data completed successfully
+2022-06-01 22:05:14,263 : [INFO] : Number of input strings read: 5
+2022-06-01 22:07:06,099 : [INFO] : Started reading input task data
+2022-06-01 22:07:06,103 : [INFO] : Successfully parsed target function from input
+2022-06-01 22:07:06,103 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 22:07:06,103 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:07:06,103 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:07:06,103 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:07:06,103 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:07:06,103 : [INFO] : Reading input data completed successfully
+2022-06-01 22:07:06,103 : [INFO] : Number of input strings read: 5
+2022-06-01 22:29:26,508 : [INFO] : Started reading input task data
+2022-06-01 22:29:26,513 : [INFO] : Successfully parsed target function from input
+2022-06-01 22:29:26,513 : [INFO] : Target function problem: F = x**2 + y**2 + z**2
+2022-06-01 22:29:26,513 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:29:26,513 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:29:26,513 : [INFO] : Successfully parsed initial state from input
+2022-06-01 22:29:26,513 : [INFO] : Initial state value: x_0 = {'x': 0.0, 'y': 12.1, 'z': -12.1}
+2022-06-01 22:29:26,514 : [INFO] : Reading input data completed successfully
+2022-06-01 22:29:26,514 : [INFO] : Number of input strings read: 5
